@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "831751204126",
+    "project_id": "massege-app-b8786",
+    "storage_bucket": "massege-app-b8786.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:831751204126:android:0d5cc7f82c927d7932ad0f",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "831751204126-5c1tkobsnoispcp7rbs34cagnc5irj5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qC6rSoa9LriX4MOSmtt9Lwm1-G2ynMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "831751204126-5c1tkobsnoispcp7rbs34cagnc5irj5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
